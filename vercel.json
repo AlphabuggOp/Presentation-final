@@ -1,6 +1,5 @@
 {
-  "buildCommand": "cd artifacts/crispr-deck && pnpm install && pnpm build",
+  "buildCommand": "pnpm install && cd artifacts/crispr-deck && pnpm build",
   "outputDirectory": "artifacts/crispr-deck/dist",
-  "installCommand": "pnpm install",
-  "framework": null
+  "installCommand": "npm install -g pnpm && pnpm install"
 }
