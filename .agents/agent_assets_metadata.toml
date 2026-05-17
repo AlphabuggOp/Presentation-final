@@ -1,0 +1,14 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "BVA_HAUB9D_LfXVfQzau7"
+uri = "file://.local/outputs/Insightful-Ideas.pptx"
+type = "slides"
+title = "Insightful Ideas.pptx"
+
+[[outputs]]
+id = "17pkej-xaXfQDykV_4ilM"
+uri = "file://crispr-deck.zip"
+type = "unspecified"
+title = "CRISPR Presentation — Full Project"
